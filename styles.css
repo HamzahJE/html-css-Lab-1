@@ -1,0 +1,49 @@
+*{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color:rgb(45, 43, 43);
+}
+h1 {
+    text-align: center;
+    color: chocolate;
+    padding: 20px;
+}
+div >h3 {
+    color: chocolate;
+    text-align: center;
+}
+div >h4 {
+    color: chocolate;
+}
+p{
+    margin: 5px;
+    text-align: auto;
+    color: chocolate;
+  
+}
+
+p >img{
+    width: 55pc;
+    float: left;
+}
+div >img{
+    width: 55pc;
+    float: right;
+}
+button{
+    background-color: chocolate;
+    width: 20.5%;
+    text-align: center;
+
+
+}
+
+input{
+    text-align: center;
+    width: 20%;
+}
+
+div > div {
+    text-align:auto;
+    margin: 20px;
+    color: chocolate;
+}
